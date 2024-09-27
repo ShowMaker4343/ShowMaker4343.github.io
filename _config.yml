@@ -92,6 +92,5 @@ page-mathjax: false
 friends:
   [
     { title: "土豆神", href: "https://github.com/saltcute" },
-    <b>
     { title: "还是土豆神", href: "https://github.com/saltcute" },
   ]
